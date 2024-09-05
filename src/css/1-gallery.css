@@ -41,7 +41,7 @@ img {
   min-height: 370px;
   justify-content: center;
   align-items: center;
-  background-color: rgb(188, 226, 226);
+  background-color: #ffffff;
   padding: 15px 0;
 }
 @media screen and (min-width: 664px) {
